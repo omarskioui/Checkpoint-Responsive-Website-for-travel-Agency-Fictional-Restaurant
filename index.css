@@ -1,0 +1,12 @@
+#contact{
+    margin-top: 10%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+   background-color:transparent;
+   border-radius: 10%;
+   border:transparent;
+   color: aliceblue;
+}

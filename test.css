@@ -1,0 +1,9 @@
+#btn{
+    background-color: rgb(53, 21, 83);
+    border: none;
+    width: 20%;
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    width: 50%;
+}
